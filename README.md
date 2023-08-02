@@ -1,12 +1,19 @@
-##StudyBroAPI
+##Study Bro
 
-![image](https://github.com/G-don/CockTails-singlePageAplication/blob/main/cocktails/VISUALS/7.png)
+![image](https://github.com/G-don/StudyBroAPI/blob/main/VISUALS/1.png)
+![image](https://github.com/G-don/StudyBroAPI/blob/main/VISUALS/2.png)
+![image](https://github.com/G-don/StudyBroAPI/blob/main/VISUALS/3.png)
+![image](https://github.com/G-don/StudyBroAPI/blob/main/VISUALS/4.png)
+![image](https://github.com/G-don/StudyBroAPI/blob/main/VISUALS/5.png)
 
 ##TechStack
 
+
 <p align="left">
-<img src="https://github.com/Drete457/Drete457/blob/master/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
-<img src="https://github.com/Drete457/Drete457/blob/master/icons/react-original-wordmark.svg" alt="javascript" width="60" height="60"/>
+<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>
+<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="60" height="60"/>
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
 </p>
 
