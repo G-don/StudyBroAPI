@@ -17,12 +17,9 @@
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
 </p>
 
-
-
-
 ##Description
 
-This is Study Bro, where you can summarise an article. Because when I study normally I do it on the internet, sometimes I find it harder to read the whole article, so with Study Bro I can get a summary of that article, which helps me to be more efficient when I study.
+This is Study Bro, where you can summarise an article. Because when I study normally I do it on the internet, sometimes I find it harder to read the whole article, so with Study Bro I can get a summary of that article, which helps me to be more efficient when I study. This is an API which extracts news/article body from a URL and uses GPT to summarize (and optionally translate) the article content. Useful for text mining purposes. Leverages powerful and flexible web scraping engine (ScrapeNinja.net) with high-quality rotating proxies under the hood.
  
 ##Instructions
 
